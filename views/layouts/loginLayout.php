@@ -28,7 +28,7 @@ CommonAsset::register($this);
 
     <footer class="common-footer">
       <div id="footer" class="center-block text-center">
-        Copyright &copy; <?= date('Y'); ?> DashCodes. All rights reserved
+        Copyright &copy; <?= date('Y'); ?> Naturefresh. All rights reserved
       </div>
     </footer>
 

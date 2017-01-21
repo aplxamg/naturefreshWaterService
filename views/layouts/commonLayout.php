@@ -42,7 +42,7 @@ $identity = User::initUser();
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="#">
-                    <img alt="DashCodes" src='/resources/common/logo.png'>
+                    <img alt="DashCodes" src='/resources/common/icon.png'>
                   </a>
                 </div>
 
@@ -145,7 +145,7 @@ $identity = User::initUser();
 
     <footer class="common-footer">
       <div id="footer" class="center-block text-center">
-        Copyright &copy; <?= date('Y'); ?> DashCodes. All rights reserved
+        Copyright &copy; <?= date('Y'); ?> Naturefresh. All rights reserved
       </div>
     </footer>
 
