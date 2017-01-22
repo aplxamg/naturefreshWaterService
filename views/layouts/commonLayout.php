@@ -42,7 +42,7 @@ $identity = User::initUser();
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="#">
-                    <img alt="DashCodes" src='/resources/common/icon.png'>
+                    <img alt="DashCodes" src='/resources/common/icon3.png'>
                   </a>
                 </div>
 
